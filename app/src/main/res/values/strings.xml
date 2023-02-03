@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Task09 Full Layout</string>
+    <string name="title_activity_mapa">Mapa</string>
+    <string name="Buneos">Good Morning!</string>
+    <string name="Light">Light traffic ahead</string>
+    <string name="cloudy_72">Cloudy 72º</string>
 </resources>
