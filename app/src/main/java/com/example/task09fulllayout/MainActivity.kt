@@ -14,7 +14,7 @@ class MainActivity : AppCompatActivity() {
 
 
         binding.mapa.setOnClickListener {
-            var intent = Intent(this, MapsActivity::class.java)
+            var intent = Intent(this, Map::class.java)
             startActivity(intent)
         }
 
