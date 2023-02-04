@@ -13,4 +13,7 @@
     <string name="via_us_101_south">via US 101 South</string>
     <string name="que_bendision">Que Bendision</string>
     <string name="missed_call">Missed Call</string>
+    <string name="little_manila">Little Manila</string>
+    <string name="long_distance">Long Distance</string>
+    <string name="resume_from_kitchen_hub">Resume from Kitchen Hub</string>
 </resources>
